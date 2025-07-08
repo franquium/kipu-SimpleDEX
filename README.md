@@ -52,13 +52,13 @@ You can deploy the contract using the [Remix IDE](https://remix.ethereum.org/) w
     -   In the **Deploy & Run Transactions** tab, select `TokenA` from the `CONTRACT` dropdown.
     * In the `initialSupply` field next to the "Deploy" button, enter the desired supply (e.g., `1000000000000000000000000` for 1 million tokens).
     * Click **Deploy** and confirm in MetaMask.
-    * **Copy the deployed contract address 📋** of `TokenA`.
+    * **Copy the deployed contract address of `TokenA`.
 
     **Deploy `TokenB.sol`**
     -   Select `TokenB` from the `CONTRACT` dropdown.
     -   Enter the same `initialSupply`.
     -   Click **Deploy** and confirm.
-    -   **Copy the deployed contract address 📋** of `TokenB`.
+    -   **Copy the deployed contract address of `TokenB`.
 
     **Deploy `SimpleDEX.sol`**
     -   Select `SimpleDEX` from the `CONTRACT` dropdown.
